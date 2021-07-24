@@ -2,4 +2,6 @@
 
 ## Curso: Introducción a Data Science
 
-## Para ver presentaciones ejecutar el siguiente link: [My binder](https://mybinder.org/v2/gh/jbekios/IDS-2021-1/HEAD)
+Para ver presentaciones ejecutar el siguiente link: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbekios/IDS-2021-1/HEAD)
